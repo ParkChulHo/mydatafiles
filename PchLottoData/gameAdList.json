@@ -1,0 +1,26 @@
+{
+"verson":11223344,
+"listGameInfo":[
+	{
+	"iGameID":0,
+	"iVerCount":0,
+	"strName":"Noname_0",
+	"strExp":"아직 안되는 게임_0",
+	"strFileName":"img_0.png"
+	},
+	{
+	"iGameID":1,
+	"iVerCount":0,
+	"strName":"Noname_1",
+	"strExp":"아직 안되는 게임_1",
+	"strFileName":"img_1.png"
+	},
+	{
+	"iGameID":2,
+	"iVerCount":0,
+	"strName":"Noname_2",
+	"strExp":"아직 안되는 게임_2",
+	"strFileName":"img_2.png"
+	}
+]
+}
