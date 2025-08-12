@@ -7,7 +7,7 @@
 		"strName": "그라비티 2048",
 		"strExp": "내가 처음으로 혼자 출시한 게임",
 		"strFileName": "ad_gravity2048.png",
-		"url": ""
+		"strUrl": ""
 	},
 	{
 		"iGameID": 20000,
@@ -15,7 +15,7 @@
 		"strName": "Same Catch",
 		"strExp": "2번째 출시 게임",
 		"strFileName": "img_2.png",
-		"url": ""
+		"strUrl": ""
 	},
 	{
 		"iGameID": 30000,
@@ -23,7 +23,7 @@
 		"strName": "블러드나이트",
 		"strExp": "화성이가 만든 게임",
 		"strFileName": "ad_bloodknight.png",
-		"url": "https://blood-knight.kr.uptodown.com/android"
+		"strUrl": "https://blood-knight.kr.uptodown.com/android"
 	}
 ]
 }
