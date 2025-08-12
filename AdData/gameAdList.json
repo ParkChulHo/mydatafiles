@@ -2,25 +2,28 @@
 "verson":1234567,
 "listGameInfo":[
 	{
-	"iGameID":0,
-	"iVerCount":0,
-	"strName":"Noname_0",
-	"strExp":"아직 안되는 게임_0",
-	"strFileName":"img_0.png"
+		"iGameID": 10000,
+		"iVerCount": 0,
+		"strName": "그라비티 2048",
+		"strExp": "내가 처음으로 혼자 출시한 게임",
+		"strFileName": "ad_gravity2048.png",
+		"url": ""
 	},
 	{
-	"iGameID":1,
-	"iVerCount":0,
-	"strName":"Noname_1",
-	"strExp":"아직 안되는 게임_1",
-	"strFileName":"img_1.png"
+		"iGameID": 20000,
+		"iVerCount": 0,
+		"strName": "Same Catch",
+		"strExp": "2번째 출시 게임",
+		"strFileName": "img_2.png",
+		"url": ""
 	},
 	{
-	"iGameID":2,
-	"iVerCount":0,
-	"strName":"Noname_2",
-	"strExp":"아직 안되는 게임_2",
-	"strFileName":"img_2.png"
+		"iGameID": 30000,
+		"iVerCount": 0,
+		"strName": "블러드나이트",
+		"strExp": "화성이가 만든 게임",
+		"strFileName": "ad_bloodknight.png",
+		"url": "https://blood-knight.kr.uptodown.com/android"
 	}
 ]
 }
